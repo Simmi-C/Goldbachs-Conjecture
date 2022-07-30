@@ -1,8 +1,4 @@
-'''Option 1: Goldbach's Conjecture
-Submitted by Simran Chopra, ID:201119001
-
-///Conjecture 1///
-
+''' 
 Goldbach's Conjecture states that "Every even number greater than 4 is the 
 sum of two odd prime numbers".
 Christian Goldbach composed this idea in 1742, after proposing his idea in a 
